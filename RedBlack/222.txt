@@ -1,0 +1,11 @@
+% just an input file
+add -3.14 43.9 4 120 77 21 90
+graph
+remove 4 -3.14 77
+print % print sorted numbers to the standard output
+add 3.45 -0.32
+print test-1.txt % print to file
+add 490 32.3 70 5.6 60
+print + test-1.txt % append to file
+remove 90
+graph + test-2.txt % append to file

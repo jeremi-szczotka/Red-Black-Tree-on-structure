@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jeren\OneDrive\Pulpit\projekcik\RedBlack\main.cpp(97,42): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\jeren\OneDrive\Pulpit\projekcik\RedBlack\main.cpp(135,38): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  RedBlack.vcxproj -> C:\Users\jeren\OneDrive\Pulpit\projekcik\RedBlack\x64\Debug\RedBlack.exe
